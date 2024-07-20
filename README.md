@@ -61,4 +61,6 @@ Analyze data based on various professions.
 Filter data according to income brackets.
 These filters allow users to drill down into specific segments and gain deeper insights into the credit card financial data.
 
+## Contact
+For any questions or support, please contact the dashboard administrator at [tusharsahni1234@gmail.com].
 Thank you for using the Credit Card Financial Dashboard!
